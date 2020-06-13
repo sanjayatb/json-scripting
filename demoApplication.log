@@ -1,4 +1,0 @@
-2020-06-13 20:12:15 INFO  RuleEngine:33 - [$dateNow]
-2020-06-13 20:12:15 INFO  TemplateLoader:38 - {simple_script.json={
-  "date" : "$dateNow"
-}}
