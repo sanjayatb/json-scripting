@@ -1,2 +1,2 @@
-# json_scripting
+# json scripting
 Json template input use as a script to generate json outputs
