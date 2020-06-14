@@ -1,0 +1,6 @@
+{
+  "dateTime" : "$s$dateNow",
+  "date" : "$f$date(MM/dd/yyyy)",
+  "twoParams" : "$bf$twoParams(param1,param2)",
+  "threeParams" : "$tf$threeParams(param1,param2,param3)"
+}

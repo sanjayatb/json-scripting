@@ -1,7 +1,5 @@
 package com.stb.java;
 
-import com.jayway.jsonpath.DocumentContext;
-import com.jayway.jsonpath.JsonPath;
 import com.stb.java.rules.RuleEngine;
 import com.stb.java.rules.RuleEvaluator;
 import com.stb.java.templates.TemplateLoader;
@@ -10,7 +8,6 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import java.util.Map;
-import java.util.function.Supplier;
 
 public class RuleTestMain {
 
